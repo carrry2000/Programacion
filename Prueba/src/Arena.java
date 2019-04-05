@@ -68,7 +68,8 @@ public final class Arena {
 			System.out.println("El daño acumulado por referencia es : "+dañoValor);
 			
 			lucha(g1, m1, dañoValor, dañoReferencia);
-			
+			System.out.println("Buenasss");
+
 			
 			if((g1.getVida()<=0 | m1.getVida()<=0) | (gf1.getVida()<=0 | m1.getVida()<=0)){
 				System.out.println("Game over");

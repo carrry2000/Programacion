@@ -9,5 +9,6 @@ public class Sabes {
 		System.out.println("Matthew es muy pesado");
 		System.out.println("Fin del programa");//github.com/carrry2000/Programacion.git
 		System.out.println(resta);
+		System.out.println("Se fini");
 	}
 }

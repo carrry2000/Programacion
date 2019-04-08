@@ -5,6 +5,5 @@ public class Sabes {
 		int b=9;
 		int suma = (a*b);
 		System.out.println(suma);
-		System.out.println("Fin");
 	}
 }
